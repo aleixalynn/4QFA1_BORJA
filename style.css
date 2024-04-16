@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+
+#signup{
+    margin: 0 auto;
+    width: 15px;
+    margin-top: 3%;
+    margin-left: 35%;
+    
+}
+
+.box{
+    border: 1px solid black;
+    width: 60vh;
+    height: 90vh;
+    margin-left: 34%;
+    position: absolute;
+}
+
+#hi{
+    border: 1px solid black;
+    width: 54vh;
+    height: 25vh;
+    margin-left: 35.2%;
+}
